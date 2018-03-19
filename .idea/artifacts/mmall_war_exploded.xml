@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="mmall:war exploded">
+    <output-path>D:/Program Files/apache-tomcat-7.0.73/webapps/webapps</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="mmall/web/Web" />
+    </root>
+  </artifact>
+</component>
